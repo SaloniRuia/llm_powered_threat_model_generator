@@ -295,4 +295,4 @@ NB-02 uses tiktoken to pack as many priority files as possible within a fixed to
 
 ---
 
-*Built for HackBricks Round 1 — AppSec track.*
+*Built for HackBricks Round 1*
